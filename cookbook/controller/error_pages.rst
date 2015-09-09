@@ -5,7 +5,7 @@
 How to Customize Error Pages
 ============================
 
-In Symfony applications, all errors are treated as exceptions, no matter if they
+En aplicaciones symfony, todos los errores son tratados como excepciones, no matter if they
 are just a 404 Not Found error or a fatal error triggered by throwing some
 exception in your code.
 
